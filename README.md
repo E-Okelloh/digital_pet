@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**A beautiful, interactive NFT pet game built on the Sui blockchain where you can mint, care for, and level up your digital companions!**
+**A beautiful, interactive NFT pet game built on the Sui blockchain where you can mint, care for your pet, and level up your digital companions!**
 
 [Features](#-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Usage](#-usage) • [Smart Contract](#-smart-contract-architecture)
 
